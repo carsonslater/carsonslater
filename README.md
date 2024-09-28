@@ -3,6 +3,8 @@
 
 I am a 2nd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
+For more info on who I am - I would check out my [personal website](https://carsonslater.com).
+
 Some fast fun facts:
 
 - 🔭 I’m currently working with my advisor, [Dr. Mandy Hering](https://sites.baylor.edu/mandy_hering/), to develop statistical methods for wastewater treatment processes.
