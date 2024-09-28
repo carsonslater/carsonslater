@@ -7,8 +7,8 @@ Some fast fun facts:
 
 - 🔭 I’m currently working with my advisor, [Dr. Mandy Hering](https://sites.baylor.edu/mandy_hering/), to develop statistical methods for wastewater treatment processes.
 - 🌱 I’m currently taking courses in Bayesian Statistics, Survival Analysis, and Time Series Analysis.
-- :light_bulb: I’m motivated by using statistics as a powerful tool for uncovering stories that aren't trivial to the naked eye.
-- :high_voltage: I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
+- 💡 I’m motivated by using statistics as a powerful tool for uncovering stories that aren't trivial to the naked eye.
+- ⚡ I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
 - 💬 Ask me about sports analytics! I am currently president of the Baylor Sports Analytics Club!
 - 📫 Let's connect! [Email me!](mailto:Carson_Slater1@baylor.edu)
 
