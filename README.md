@@ -14,3 +14,4 @@ Some fast fun facts:
 - 💬 Ask me about sports analytics! I am currently president of the Baylor Sports Analytics Club!
 - 📫 Let's connect! [Email me!](mailto:Carson_Slater1@baylor.edu)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslater&theme=dark)](https://git.io/streak-stats)
