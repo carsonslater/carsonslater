@@ -1,5 +1,5 @@
 
-## Howdy! 👋 My name is Carson Slater.
+## Howdy! 👋 Carson here.
 
 I am a 2nd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
