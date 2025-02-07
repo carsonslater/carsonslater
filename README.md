@@ -11,7 +11,5 @@ Some fast fun facts:
 - 🌱 I’m currently taking courses in Bayesian Statistics, Spatial Statistics, and Design of Clinical Trials.
 - 💡 I’m motivated by using statistics as a powerful tool for uncovering stories that aren't trivial to the naked eye.
 - ⚡ I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
-- 💬 Ask me about sports analytics! I am currently president of the Baylor Sports Analytics Club!
 - 📫 Let's connect! [Email me!](mailto:Carson_Slater1@baylor.edu)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslater&theme=dark)](https://git.io/streak-stats)
