@@ -1,7 +1,7 @@
 
 ## Howdy! 👋 Carson here.
 
-I am a 2nd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
+I am a 3rd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
 For more info on who I am - I would check out my [personal website](https://carsonslater.com).
 
