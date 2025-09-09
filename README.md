@@ -7,7 +7,7 @@ For more info on who I am - I would check out my [personal website](https://cars
 
 Some fast fun facts:
 
-- 🔭 I’m currently working with my advisor, [Dr. Mandy Hering](https://sites.baylor.edu/mandy_hering/), to develop statistical methods for water/wastewater treatment processes.
+- 🔭 I’m currently working with my advisor, [Dr. Mandy Hering](https://sites.baylor.edu/mandy_hering/), to develop statistical methods for urban water distribution processes.
 - 🌱 I’m currently taking courses in Large Sample Theory and Generalized Linear Models.
 - 💡 I’m motivated by using statistics as a powerful tool for uncovering stories that aren't trivial to the naked eye.
 - ⚡ I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
