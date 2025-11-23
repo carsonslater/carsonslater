@@ -5,7 +5,7 @@
 
 I am a 3rd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
-For more info on who I am - I would check out my [personal website](https://carsonslater.com).
+For more info on who I am - I would check out my [personal website](https://carsonslater.github.io).
 
 Some fast fun facts:
 
