@@ -15,4 +15,4 @@ Some fast fun facts:
 - ⚡ I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
 - 📫 Let's connect! [Email me!](mailto:Carson_Slater1@baylor.edu)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslater/?theme=javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslatertheme=javascript-dark)](https://git.io/streak-stats)
