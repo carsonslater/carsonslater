@@ -1,7 +1,7 @@
 
 ## Howdy! 👋 Carson here.
 
-<img src="https://komarev.com/ghpvc/?username=carsonslater/?theme=javascript-dark" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=carsonslater" alt="watching_count" />
 
 I am a 3rd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
@@ -15,4 +15,4 @@ Some fast fun facts:
 - ⚡ I am a **proud** graduate of [Wheaton College](https://www.wheaton.edu), where I played varsity baseball for the Thunder. 
 - 📫 Let's connect! [Email me!](mailto:Carson_Slater1@baylor.edu)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslater)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carsonslater/?theme=javascript-dark)](https://git.io/streak-stats)
