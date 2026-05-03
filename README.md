@@ -1,7 +1,7 @@
 
 ## Howdy! 👋 Carson here.
 
-<img src="https://komarev.com/ghpvc/?username=carsonslater" alt="watching_count" theme="javascript-dark"/>
+<img src="https://komarev.com/ghpvc/?username=carsonslater/?theme=javascript-dark" alt="watching_count" />
 
 I am a 3rd year PhD student in the [Department of Statistical Science](https://statistics.artsandsciences.baylor.edu) at Baylor University.
 
